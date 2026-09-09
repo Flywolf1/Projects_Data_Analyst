@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "OlphaMarket"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "afa61862-875d-4179-a757-e4d5c3d73c6d"
+  }
+}
